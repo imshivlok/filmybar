@@ -1,0 +1,47 @@
+body{
+background:#301934;
+}
+
+.navbar{
+  background-color:#702963; overflow: hidden; margin:-8; margin-bottom:0; text-align:center; font-family: Franklin Gothic; color:white;
+}
+
+.navbar a {
+  float: left; color: white; text-align: center; text-decoration: none; font-size: 17px;
+}
+
+.navbar a.active{
+  margin-left:10px; margin-right:10px;
+}
+
+.navbar a.active img{
+  height:47;
+}
+
+.navbar a.rest {
+  margin-right:14px; padding: 14px 16px;
+}
+
+.navbar a.rest:hover {
+  background-color: #04AA6D; color: white;
+}
+
+.navbar a.account{
+  float:right; margin-top:10px; margin-right:10px; margin-left:14px;
+}
+
+.navbar a.account img{
+  height:30;
+}
+
+.nanodiv{
+  margin-top:20%; margin-right:25%; margin-left:25%; margin-bottom:25%;
+}
+
+.nanodiv table tr td img{
+  margin-bottom:10%;
+}
+
+.nanodiv table tr td{
+  text-align:center; font-family: Helvetica; color:white;
+}
