@@ -1,3 +1,7 @@
+# favicon-ico
+
+https://imshivlok.github.io/filmybar/images/favicon.ico
+
 # filmybar-png
 
 https://i.ibb.co/B62bwxb/filmybar.png
