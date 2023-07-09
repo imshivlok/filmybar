@@ -1,6 +1,7 @@
 # FilmyBar
-A Front-End Design for a movie downloading site.<br>
-Disclaimer: I do not intend to host any pirated content on this site. This site is purely meant to demonstrate my creative skills.
+A Front-End Design for a movie downloading site.<br><br>
+
+|DISCLAIMER: I do not intend to host any pirated content on this site. This site is purely meant to demonstrate my creative skills.|
 
 # site-hostings
 1. https://imshivlok.github.io/filmybar/ (stable)
