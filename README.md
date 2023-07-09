@@ -6,8 +6,8 @@
   ![Progress](https://img.shields.io/badge/incomplete-301934)
 
 <h2 align="center">FilmyBar - Movie Website</h2>
-A Front-End Design for a movie downloading site.
-<a href="https://imshivlok.github.io/filmybar/"><strong>➥View Demo</strong></a>
+A Front-End Design for a movie downloading site.<br>
+<a href="https://imshivlok.github.io/filmybar/" target="_blank"><strong>➥View Demo</strong></a>
 </div>
 
 # site-hostings
