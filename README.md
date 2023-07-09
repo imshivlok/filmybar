@@ -1,3 +1,9 @@
+<div align="center">
+
+  ![GitHub repo size](https://img.shields.io/github/repo-size/imshivlok/filmybar)
+
+</div>
+
 # FilmyBar
 A Front-End Design for a movie downloading site.
 
