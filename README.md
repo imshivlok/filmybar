@@ -7,7 +7,7 @@
 
 </div>
 
-# FilmyBar
+<h2 align="center">FilmyBar - Movie Website</h2>
 A Front-End Design for a movie downloading site.
 
 # site-hostings
