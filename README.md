@@ -1,16 +1,14 @@
 # FilmyBar
 A Front-End Design for a movie downloading site.<br>
-Disclaimer: I do not intend to host any pirated content on this site. It is just a Front-End Design to show my creativity.
+Disclaimer: I do not intend to host any pirated content on this site. This site is purely meant to demonstrate my creative skills.
 
 # site-hostings
-1. https://imshivlok.github.io/filmybar/ (updated)
-2. https://filmybar2023.blogspot.com/
+1. https://imshivlok.github.io/filmybar/ (stable)
+2. https://filmybar--imshivlok.repl.co (beta)
+
+# dormant-sites (non-updated)
+1. https://filmybar2023.blogspot.com/
+2. https://filmybar-ie.blogspot.com/ (ie)
 3. https://filmybar.tiiny.site/
-
-# iexplorer-versions
-1. https://filmybar-ie.blogspot.com/
-2. https://filmybar-ie.tiiny.site/
-
-# beta-testings (non-ie)
-1. https://filmybar--imshivlok.repl.co (updated)
-2. https://filmybar-beta.tiiny.site
+4. https://filmybar-ie.tiiny.site/ (ie)
+5. https://filmybar-beta.tiiny.site (unstable-beta)
