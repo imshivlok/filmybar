@@ -5,10 +5,10 @@
   ![GitHub forks](https://img.shields.io/github/forks/imshivlok/filmybar?style=social)
   ![Progress](https://img.shields.io/badge/incomplete-301934)
 
-</div>
-
 <h2 align="center">FilmyBar - Movie Website</h2>
 A Front-End Design for a movie downloading site.
+<a href="https://imshivlok.github.io/filmybar/"><strong>➥View Demo</strong></a>
+</div>
 
 # site-hostings
 1. https://imshivlok.github.io/filmybar/ (stable)
