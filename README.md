@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/imshivlok/filmybar)
   ![GitHub stars](https://img.shields.io/github/stars/imshivlok/filmybar?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/imshivlok/filmybar?style=social)
-  ![Progress](https://img.shields.io/badge/incomplete-8A2BE2)
+  ![Progress](https://img.shields.io/badge/incomplete-FFFF00)
 
 </div>
 
