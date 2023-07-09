@@ -1,6 +1,9 @@
 <div align="center">
 
   ![GitHub repo size](https://img.shields.io/github/repo-size/imshivlok/filmybar)
+  ![GitHub stars](https://img.shields.io/github/stars/imshivlok/filmybar?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/imshivlok/filmybar?style=social)
+  ![Instagram Follow](https://img.shields.io/instagram/follow/imshivlok?style=social)
 
 </div>
 
