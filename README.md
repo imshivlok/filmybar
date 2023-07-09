@@ -12,7 +12,7 @@ A front-end design for a movie downloading site.<br>
 
 <div>
 
-  <h2>screenshots</h2><br>
+  <h2>screenshots</h2>
   <img src="images/screenshot1.img" alt="screenshot1" title="screenshot1">
   
 </div>
