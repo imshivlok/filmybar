@@ -8,10 +8,10 @@
   <img src="images/filmybar.png" alt="logo" title="logo" width="40%">
 
 <h2>FilmyBar - Movie Website</h2>
-</div>
-A front-end design for a movie website page. Built using HTML, CSS, (may implement JS at later time.<br>
-<a href="https://imshivlok.github.io/filmybar/" align="center"><strong>➥View Demo</strong></a>
 
+A front-end design for a movie website page. Built using HTML, CSS.<br>(may implement JS at later time)<br><br>
+<a href="https://imshivlok.github.io/filmybar/" align="center"><strong>➥View Demo</strong></a>
+</div>
 <h2>Demo Screenshots</h2>
   
   <img src="images/screenshot1.jpg" alt="screenshot1" title="screenshot1" width="100%">
