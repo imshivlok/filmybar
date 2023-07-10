@@ -25,18 +25,18 @@ A front-end design for a movie website page.<br>
 </div>
 
 <h2>Active Hosts</h2>
-1. https://imshivlok.github.io/filmybar/ (stable)
+1. https://imshivlok.github.io/filmybar/ (stable)<br>
 2. https://filmybar--imshivlok.repl.co (beta)
 
 <h2>Dormant Hosts</h2>
-1. https://filmybar2023.blogspot.com/
-2. https://filmybar-ie.blogspot.com/ (ie)
-3. https://filmybar.tiiny.site/
-4. https://filmybar-ie.tiiny.site/ (ie)
+1. https://filmybar2023.blogspot.com/<br>
+2. https://filmybar-ie.blogspot.com/ (ie)<br>
+3. https://filmybar.tiiny.site/<br>
+4. https://filmybar-ie.tiiny.site/ (ie)<br>
 5. https://filmybar-beta.tiiny.site (unstable-beta)
 
 # License
-This project is <strong>free to use</strong> and does not contains any license.<br><br>
+This project is <strong>free to use</strong> and does not contains any license.<br>
 
 |DISCLAIMER: I do not intend to host any pirated content on this site. This site is purely meant to demonstrate my creative skills.|
 |---|
