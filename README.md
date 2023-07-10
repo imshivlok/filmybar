@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <img src="images/screenshot1.jpg" alt="screenshot1" title="screenshot1" width="95%">
+  <img src="images/filmybar.jpg" alt="screenshot1" title="screenshot1" width="60%">
   
 </div>
 
