@@ -7,7 +7,8 @@
   
   <img src="images/filmybar.png" alt="logo" title="logo" width="40%">
 
-<h2 align="center">FilmyBar - Movie Website</h2>
+<h2>FilmyBar - Movie Website</h2>
+</div>
 A front-end design for a movie website page.<br>
 <a href="https://imshivlok.github.io/filmybar/"><strong>➥View Demo</strong></a>
 
