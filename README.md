@@ -14,7 +14,7 @@ A front-end design for a movie website page. Built using HTML, CSS.<br>(may impl
 </div>
 <h2>Demo Screenshots</h2>
   
-  <img src="/images/screenshot1.jpg" alt="screenshot1" title="screenshot1" width="100%">
+  <img src="/images/screenshot1.png" alt="screenshot1" title="screenshot1" width="100%">
 
 <h2>Active Hosts</h2>
 1. https://imshivlok.github.io/filmybar/ (stable)<br>
