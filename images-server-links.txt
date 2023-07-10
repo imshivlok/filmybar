@@ -1,6 +1,7 @@
 # favicon-ico
 
 https://imshivlok.github.io/filmybar/images/favicon.ico
+https://filmybar--imshivlok.repl.co/images/favicon.ico
 
 # favicon-decoded
 
@@ -18,15 +19,18 @@ https://i.ibb.co/yYSfTXQ/favicon.jpg
 
 https://i.ibb.co/B62bwxb/filmybar.png
 https://imshivlok.github.io/filmybar/images/filmybar.png
+https://filmybar--imshivlok.repl.co/images/filmybar.png
 
 # login-png
 https://i.ibb.co/tDpy8Wr/login.png
 https://imshivlok.github.io/filmybar/images/login.png
+https://filmybar--imshivlok.repl.co/images/login.png
 
 # maintenance-svg
 
 https://svgshare.com/i/v2B.svg
 https://imshivlok.github.io/filmybar/images/maintenance.svg
+https://filmybar--imshivlok.repl.co/images/maintenance.svg
 
 # maintenance-png
 
