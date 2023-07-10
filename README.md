@@ -26,5 +26,5 @@ If you want to contact with me you can reach me at <a href="https://www.instagra
 <h2>License</h2>
 This project is <strong>free to use</strong> and does not contains any license.<br><br>
 
-|:warning:DISCLAIMER: I do not intend to host any pirated content on this site. This site is purely meant to demonstrate my creative skills.|
+|:warning: DISCLAIMER: I do not intend to host any pirated content on this site. This site is purely meant to demonstrate my creative skills.|
 |---|
