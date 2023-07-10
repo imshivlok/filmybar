@@ -21,7 +21,7 @@ A front-end design for a movie website page. Built using HTML, CSS.<br>(may impl
 2. https://filmybar--imshivlok.repl.co (beta)
 
 <h2>Contact</h2>
-If you want to contact with me you can reach me at <a href="https://www.instagram.com/imshivlok">Instagram</a>.
+If you want to contact me, you can reach me at <a href="https://www.instagram.com/imshivlok">Instagram</a>.
 
 <h2>License</h2>
 This project is <strong>free to use</strong> and does not contains any license.<br><br>
