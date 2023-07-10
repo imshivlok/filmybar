@@ -24,11 +24,11 @@ A front-end design for a movie website page.<br>
   
 </div>
 
-# site-hostings
+<h2>Active Hosts</h2>
 1. https://imshivlok.github.io/filmybar/ (stable)
 2. https://filmybar--imshivlok.repl.co (beta)
 
-# dormant-sites (non-updated)
+<h2>Dormant Hosts</h2>
 1. https://filmybar2023.blogspot.com/
 2. https://filmybar-ie.blogspot.com/ (ie)
 3. https://filmybar.tiiny.site/
@@ -36,6 +36,7 @@ A front-end design for a movie website page.<br>
 5. https://filmybar-beta.tiiny.site (unstable-beta)
 
 # License
-This project is <strong>free to use</strong> and does not contains any license.<br>
+This project is <strong>free to use</strong> and does not contains any license.<br><br>
+
 |DISCLAIMER: I do not intend to host any pirated content on this site. This site is purely meant to demonstrate my creative skills.|
 |---|
