@@ -10,10 +10,10 @@ A front-end design for a movie downloading site.<br>
 <a href="https://imshivlok.github.io/filmybar/" target="_blank"><strong>➥View Demo</strong></a>
 </div>
 
-<div>
-
   <h2>screenshots</h2>
-  <img src="images/screenshot1.img" alt="screenshot1" title="screenshot1">
+
+<div align="center">
+  <img src="images/screenshot1.jpg" alt="screenshot1" title="screenshot1" width="90%">
   
 </div>
 
