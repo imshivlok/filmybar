@@ -11,18 +11,14 @@
   
 </div>
 
-<h2 align="center">FilmyBar - Movie Website</h2>
+<h2>FilmyBar - Movie Website</h2>
 A front-end design for a movie website page.<br>
-<a href="https://imshivlok.github.io/filmybar/" target="_blank"><strong>➥View Demo</strong></a>
+<a href="https://imshivlok.github.io/filmybar/"><strong>➥View Demo</strong></a>
 </div>
 
-  <h2>Demo Screenshots</h2>
-
-<div align="center">
+<h2>Demo Screenshots</h2>
   
   <img src="images/screenshot1.jpg" alt="screenshot1" title="screenshot1" width="100%">
-  
-</div>
 
 <h2>Active Hosts</h2>
 1. https://imshivlok.github.io/filmybar/ (stable)<br>
