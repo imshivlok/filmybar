@@ -5,7 +5,7 @@
   ![GitHub forks](https://img.shields.io/github/forks/imshivlok/filmybar?style=social)
   ![Progress](https://img.shields.io/badge/incomplete-301934)<br>
   
-  <img src="images/logo.png" alt="logo" title="logo" width="60%">
+  <img src="images/logo.png" alt="logo" title="logo" width="50%">
 
 <h2>FilmyBar - Movie Website</h2>
 
