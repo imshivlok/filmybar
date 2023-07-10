@@ -35,7 +35,7 @@ A front-end design for a movie website page.<br>
 4. https://filmybar-ie.tiiny.site/ (ie)<br>
 5. https://filmybar-beta.tiiny.site (unstable-beta)
 
-# License
+<h2>License</h2>
 This project is <strong>free to use</strong> and does not contains any license.<br>
 
 |DISCLAIMER: I do not intend to host any pirated content on this site. This site is purely meant to demonstrate my creative skills.|
