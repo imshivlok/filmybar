@@ -9,7 +9,7 @@
 
 <h2>FilmyBar - Movie Website</h2>
 
-A front-end design for a movie website page. Built using HTML, CSS.<br>(may implement JS at a later time)<br><br>
+A front-end design for a movie website page. Built using HTML and CSS.<br>(may implement JS at a later time)<br><br>
 <a href="https://imshivlok.github.io/filmybar/" align="center"><strong>➥View Demo</strong></a><br>
 </div>
 <h2>Demo Screenshots</h2>
