@@ -17,8 +17,8 @@ A front-end design for a movie website page. Built using HTML and CSS.<br>(may i
   <img src="/images/screenshot1.png" alt="screenshot1" title="screenshot1" width="100%">
 
 <h2>Active Hosts</h2>
-1. https://imshivlok.github.io/filmybar/ (stable)<br>
-2. https://filmybar--imshivlok.repl.co (beta)
+1. <a href="https://imshivlok.github.io/filmybar/">https://imshivlok.github.io/filmybar/</a><br>
+2. <a href="https://filmybar--imshivlok.repl.co">https://filmybar--imshivlok.repl.co</a>
 
 <h2>Contact</h2>
 If you want to contact me, you can reach me at <a href="https://www.instagram.com/imshivlok">Instagram</a>.
